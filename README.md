@@ -7,11 +7,8 @@ I am a second-year B.Tech student currently **coding my way out of student debt.
 ---
 ### 💭 I think
 #### If everyone starts contributing to open source. 
-<video controls width="250">
-    <source src="media/osdev.mp4" type="video/mp4">
-    
-    Markdown is currently not supporting the video tag.
-</video>
+![Alt text](https://media1.tenor.com/m/l6Dq9zsAyOkAAAAC/coca-cola-gta.gif)
+
 
 ---
 
