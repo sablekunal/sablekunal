@@ -5,12 +5,6 @@
 I am a second-year B.Tech student currently **coding my way out of student debt.** I build web apps that solve real problems and AI agents that can make humans lazy.
 
 ---
-### 💭 I think
-#### If everyone starts contributing to open source. 
-![Alt text](https://media1.tenor.com/m/l6Dq9zsAyOkAAAAC/coca-cola-gta.gif)
-
-
----
 
 ### ❓ What am I up to?
 
