@@ -34,7 +34,7 @@ I am a second-year B.Tech student currently **coding my way out of student debt.
 ---
 
 ### ⚡ Fact
-I like to build and maintain stuff; you can see the projects I build. Most of them are sudden thoughts that strike, and I start building. 
+I like to build and maintain stuff; please see the projects I build. Most of them are sudden thoughts that strike, and I start building. 
 
 ---
 
