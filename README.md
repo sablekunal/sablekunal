@@ -2,7 +2,7 @@
 
 #### *Full-Stack Dev | AI Enthusiast | Aspiring Open Source Contributor*
 
-I am a second-year B.Tech student currently **coding my way out of student debt.** I build web apps that solve real problems and AI agents that can make humans lazy.
+I am a second-year B.Tech student currently **focusing on building the tech skills** I build web apps that solve real problems and AI agents that can make humans bit lazier.
 
 ---
 
@@ -20,18 +20,10 @@ I am a second-year B.Tech student currently **coding my way out of student debt.
 * **Languages:** Python , JavaScript , C++ 
 * **Web:** React, Next.js, Tailwind CSS 
 * **AI/Data:** OpenCV, TensorFlow, Automation Scripts
-* **Backend:** Supabase, OAuth, Vercel
+* **Backend:** Supabase, OAuth
 
 ---
 
-### 📈 My GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=sablekunal&show_icons=true&theme=radical&hide_border=true" alt="Kunal's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sablekunal&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ### ⚡ Fact
 I like to build and maintain stuff; please see the projects I build. Most of them are sudden thoughts that strike, and I start building. 
