@@ -6,6 +6,17 @@ I am a second-year B.Tech student currently **focusing on building the tech skil
 
 ---
 
+###  Why I love Open source 💖
+
+<details>
+<summary><b>🎬 Society if everyone used Open source software and contributed to it </b></summary>
+
+https://github.com/user-attachments/assets/93c7288e-85fb-43a4-9ee5-314298fdea4f
+
+</details>
+
+---
+
 ### ❓ What am I up to?
 
 *  **Building Webservice:** Created [**WatchThisMovie**](https://watchthismovie.online) because I got tired of finding a good movie that I actually like.
