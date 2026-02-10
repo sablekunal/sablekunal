@@ -2,7 +2,7 @@
 
 #### *Full-Stack Dev | AI Enthusiast | Aspiring Open Source Contributor*
 
-I am a second-year B.Tech student currently **focusing on building the tech skills** I build web apps that solve real problems and AI agents that can make humans bit lazier.
+I am a second-year B.Tech student currently **focusing on building the tech skills.** I build web apps that solve real problems and AI agents that can make humans bit lazier.
 
 ---
 
